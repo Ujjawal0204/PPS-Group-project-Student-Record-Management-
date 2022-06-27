@@ -7,9 +7,13 @@ The purpose of this project is to handel the record of student which contains na
 This project has the function to add, view, delete, and edit the records.
 
 This project is made by:
+
 Ujjawal Jaiswal (RA2111050010059)
+
 Prachi Tiwari (RA2111050010026)
+
 Subhashree (RA2111050010032)
+
 Kunal (RA2111050010058)
 
 
