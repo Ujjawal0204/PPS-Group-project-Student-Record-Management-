@@ -5,6 +5,8 @@ File handling in C enables us to create, update, read, and delete the files stor
 
 The purpose of this project is to handel the record of student which contains name, registration number, section. phone number, etc.
 This project has the function to add, view, delete, and edit the records.
+![image](https://user-images.githubusercontent.com/91370904/185593653-cb94d4c3-3ece-4ec3-9ff5-17f2f9a83933.png)
+
 
 
 
