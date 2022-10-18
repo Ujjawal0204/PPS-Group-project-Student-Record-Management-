@@ -14,6 +14,8 @@ This project has the function to add, view, delete, and edit the records.
 
 ![image](https://user-images.githubusercontent.com/91370904/185594145-22f76c87-4876-4e44-9ebe-748be2b83052.png)
 
+This project is under hactoberfest and you can contribute to this project to be a part of the comunity and learn from it.
+
 
 
 
