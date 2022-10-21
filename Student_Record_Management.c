@@ -20,7 +20,7 @@ struct student
 };
 int main()
 {
-    gotoxy(15,8);
+    gotoxy(15,7);
     printf("<--:Student Record Management System:-->\n");
     gotoxy(22,10);
     printf("Press any key to continue.");
