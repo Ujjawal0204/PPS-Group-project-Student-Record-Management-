@@ -1,4 +1,4 @@
-﻿# -Student-Record-Management
+# -Student-Record-Management
 This project is based on file handeling.
 
 File handling in C enables us to create, update, read, and delete the files stored on the local file system through our C program. The following operations can be performed on a file.
@@ -14,7 +14,11 @@ This project has the function to add, view, delete, and edit the records.
 
 ![image](https://user-images.githubusercontent.com/91370904/185594145-22f76c87-4876-4e44-9ebe-748be2b83052.png)
 
-This project is under hactoberfest and you can contribute to this project to be a part of the comunity and learn from it.
+# Hactoberfest
+
+This project is taged under hactoberfest and you can contribute to this project to be a part of the comunity and learn from it.
+
+Read the conctribution guideline on the main page of you hactober fest profile and do the same.
 
 
 
