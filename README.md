@@ -20,6 +20,9 @@ This project is taged under hactoberfest and you can contribute to this project 
 
 Read the conctribution guideline on the main page of you hactober fest profile and do the same.
 
+# Contributors
+
+Ujjawal Jaiswal 
 
 
 
