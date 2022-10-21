@@ -22,7 +22,7 @@ Read the conctribution guideline on the main page of you hactober fest profile a
 
 # Contributors
 
-Ujjawal Jaiswal 
+-[Ujjawal Jaiswal](https://github.com/Ujjawal0204)
 
 
 
